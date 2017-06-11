@@ -14,6 +14,7 @@
 		3A8C11A11EED230E0042880E /* GIT_1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3A8C119F1EED230E0042880E /* GIT_1.xcdatamodeld */; };
 		3A8C11A31EED230E0042880E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A8C11A21EED230E0042880E /* Assets.xcassets */; };
 		3A8C11A61EED230E0042880E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A8C11A41EED230E0042880E /* LaunchScreen.storyboard */; };
+		3A8C11AF1EED2E880042880E /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A8C11AE1EED2E880042880E /* MyViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		3A8C11A21EED230E0042880E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A8C11A51EED230E0042880E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A8C11A71EED230E0042880E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A8C11AD1EED2E880042880E /* MyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyViewController.h; sourceTree = "<group>"; };
+		3A8C11AE1EED2E880042880E /* MyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				3A8C11971EED230E0042880E /* AppDelegate.m */,
 				3A8C11991EED230E0042880E /* ViewController.h */,
 				3A8C119A1EED230E0042880E /* ViewController.m */,
+				3A8C11AD1EED2E880042880E /* MyViewController.h */,
+				3A8C11AE1EED2E880042880E /* MyViewController.m */,
 				3A8C119C1EED230E0042880E /* Main.storyboard */,
 				3A8C11A21EED230E0042880E /* Assets.xcassets */,
 				3A8C11A41EED230E0042880E /* LaunchScreen.storyboard */,
@@ -158,6 +163,7 @@
 				3A8C11981EED230E0042880E /* AppDelegate.m in Sources */,
 				3A8C11A11EED230E0042880E /* GIT_1.xcdatamodeld in Sources */,
 				3A8C11951EED230E0042880E /* main.m in Sources */,
+				3A8C11AF1EED2E880042880E /* MyViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
